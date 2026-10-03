@@ -1,5 +1,14 @@
+# core dependencies for the project
 langchain
 langchain-community
+langchain-core
+langchain-experimental
+
+# OpenAI integration (for models and embeddings)
+langchain-openai
+python-dotenv
+
+# Document loaders
 pypdf
 rapidocr-onnxruntime
 pytesseract
@@ -10,3 +19,15 @@ beautifulsoup4
 lxml
 ipykernel
 rapidocr
+
+# Text Splitters
+langchain-text-splitters
+
+# Token counting for text splitters
+tiktoken
+
+# kernel for jupyter noteboks
+ipykernel
+
+# colored text in terminal
+termcolor
