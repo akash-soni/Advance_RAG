@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+04_Vector_store/notebooks/chroma_langchain_db/*
+06_Advance_Retrievers/notebooks/local_parent_store/*

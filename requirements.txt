@@ -23,11 +23,32 @@ rapidocr
 # Text Splitters
 langchain-text-splitters
 
-# Token counting for text splitters
+# Token counting for text splitters & Token counting for OpenAI models
 tiktoken
 
 # kernel for jupyter noteboks
 ipykernel
-
 # colored text in terminal
 termcolor
+
+
+ollama
+langchain-ollama
+
+#vector stores
+langchain-chroma
+chromadb
+faiss-cpu
+
+#retrievers
+rank-bm25
+
+# Self-Query retriever requires lark for structured query parsing
+lark
+
+# reranker
+flashrank
+langchain-cohere
+
+#search
+tavily
