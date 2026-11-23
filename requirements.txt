@@ -52,3 +52,19 @@ langchain-cohere
 
 #search
 tavily
+
+# Graph DB
+langchain-neo4j
+fpdf2
+
+
+
+#multi-modal
+unstructured[pdf,local-inference]
+langchain-unstructured
+pytesseract
+pdf2image
+open_clip_torch
+torch
+torchvision
+Pillow
